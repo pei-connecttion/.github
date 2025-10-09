@@ -51,36 +51,6 @@ Controlled deployment, user docs & training, final presentation + future recomme
 
 ---
 
-## Contributing
-
-1. Check the **Roadmap** to see what phase we’re in and the current priorities.
-2. Open an issue describing the change (link it to a milestone/phase).
-3. Create a feature branch from `main`.
-4. Submit a PR with:
-   - Scope, screenshots (if UI), and testing notes.
-   - Any migrations and rollback steps.
-5. Request a review from module owners (Members, Finance, Resources, Dashboard).
-
-### Coding Standards
-
-- Follow the architectural decisions established in Phase 2 (roles, permissions, workflows).
-- Write unit/integration tests (aligned with Phase 5 testing strategy).
-
----
-
-## Security & Privacy
-
-- Handle member and financial data with care; adhere to least-privilege roles/permissions defined during system design.
-- Do not commit secrets—use environment variables and secret managers.
-
----
-
-## Documentation
-
-- **User documentation & training** will be delivered ahead of deployment (Phase 6). Keep `/docs` updated as features land.
-
----
-
 ## Team
 **Members:** Rafael Fernandes · Dinis Cunha · Pedro Fonseca · Eduardo Rosário · Henrique Lopes
 **Advisors:** Osvaldo Pacheco · Daniel Ferreira  
