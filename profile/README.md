@@ -54,7 +54,7 @@ Controlled deployment, user docs & training, final presentation + future recomme
 ## Team
 **Members:** Rafael Fernandes · Dinis Cunha · Pedro Fonseca · Eduardo Rosário · Henrique Lopes
 
-**Advisors:** Prof. Osvaldo Pacheco · Daniel Ferreira  
+**Advisors:** Osvaldo Pacheco · Daniel Ferreira  
 
 **Collaborators:** Duarte Santos · Sebastião Teixeira · Guilherme Rosa
 
